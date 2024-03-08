@@ -1,0 +1,20 @@
+.bg-black{
+    
+    background-color: black;
+}
+
+img {
+    width: 900%;
+    height: 100%;
+}
+
+
+.font-div {
+    width: 30%;
+}
+
+@media only screen and (min-weight: 898px) {
+    .font-div {
+        padding: 42px 0px!important;
+    }
+}
